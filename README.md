@@ -1,6 +1,6 @@
 # Gemini 3 Photography Agent
 
-A next-generation photography assistant powered by **Gemini 3** (via Gemini 1.5 Pro API), **Gemini Nano**, **Imagen 3**, and **Veo**.
+A next-generation Video and photography assistant powered by **Gemini 3** (via Gemini 1.5 Pro API), **Gemini Nano**, **Imagen 3**, and **Veo**.
 
 ## Prerequisites
 - **Python 3.9+**
