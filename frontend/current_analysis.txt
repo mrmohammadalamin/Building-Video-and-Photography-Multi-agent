@@ -1,0 +1,29 @@
+﻿Analyzing frontend...                                           
+
+   info - The private field _showProactiveGuidance could be 'final' - lib\camera_screen.dart:50:8 - prefer_final_fields
+warning - The value of the field '_showProactiveGuidance' isn't used - lib\camera_screen.dart:50:8 - unused_field
+warning - The value of the field '_recordedVideo' isn't used - lib\camera_screen.dart:55:10 - unused_field
+   info - Statements in an if should be enclosed in a block - lib\camera_screen.dart:118:9 - curly_braces_in_flow_control_structures
+   info - Don't use 'BuildContext's across async gaps - lib\camera_screen.dart:315:52 - use_build_context_synchronously
+   info - Statements in an if should be enclosed in a block - lib\camera_screen.dart:363:47 - curly_braces_in_flow_control_structures
+   info - Don't use 'BuildContext's across async gaps - lib\camera_screen.dart:376:48 - use_build_context_synchronously
+warning - The '!' will have no effect because the receiver can't be null - lib\camera_screen.dart:379:22 - unnecessary_non_null_assertion
+   info - Statements in an if should be enclosed in a block - lib\camera_screen.dart:472:31 - curly_braces_in_flow_control_structures
+warning - Unused import: 'package:camera/camera.dart' - lib\models\chat_models.dart:1:8 - unused_import
+warning - Unused import: 'dart:typed_data' - lib\screens\editor_screen.dart:1:8 - unused_import
+warning - Unused import: 'package:provider/provider.dart' - lib\screens\editor_screen.dart:3:8 - unused_import
+warning - Unused import: '../services/mode_service.dart' - lib\screens\editor_screen.dart:5:8 - unused_import
+   info - Use 'const' with the constructor to improve performance - lib\screens\modes\photographer_mode.dart:121:15 - prefer_const_constructors
+   info - Use a 'SizedBox' to add whitespace to a layout - lib\screens\modes\photographer_mode.dart:188:17 - sized_box_for_whitespace
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\modes\photographer_mode.dart:314:48 - deprecated_member_use
+  error - Too many positional arguments: 0 expected, but 3 found - lib\screens\modes\videographer_mode.dart:154:9 - extra_positional_arguments_could_be_named
+  error - Expected to find ')' - lib\screens\modes\videographer_mode.dart:330:7 - expected_token
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\modes\videographer_mode.dart:342:41 - deprecated_member_use
+   info - The import of 'package:flutter/foundation.dart' is unnecessary because all of the used elements are also provided by the import of 'package:flutter/material.dart' - lib\screens\video_player_screen.dart:1:8 - unnecessary_import
+   info - 'listenMode' is deprecated and shouldn't be used. Use SpeechListenOptions.listenMode instead - lib\services\voice_service_mobile.dart:47:9 - deprecated_member_use
+   info - 'dart:js' is deprecated and shouldn't be used. Use dart:js_interop instead - lib\services\voice_service_web.dart:1:1 - deprecated_member_use
+   info - Don't use web-only libraries outside Flutter web plugins - lib\services\voice_service_web.dart:1:1 - avoid_web_libraries_in_flutter
+warning - The asset directory 'assets/icons/' doesn't exist - pubspec.yaml:29:7 - asset_directory_does_not_exist
+warning - Unused import: 'package:camera/camera.dart' - test_camera.dart:1:8 - unused_import
+   info - Don't invoke 'print' in production code - test_camera.dart:4:3 - avoid_print
+

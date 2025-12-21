@@ -1,0 +1,56 @@
+﻿
+Compiling lib\main.dart for the Web...                          
+flutter : Warning: 
+In index.html:26: 
+Local variable for "
+serviceWorkerVersion
+" is deprecated. 
+Use "{{flutter_servi
+ce_worker_version}}"
+ template token 
+instead. See https:/
+/docs.flutter.dev/pl
+atform-integration/w
+eb/initialization 
+for more details.
+At line:1 char:1
++ flutter build web 
+2>&1 | Out-File 
+-FilePath 
+build_error.txt 
+-Encoding ...
++ ~~~~~~~~~~~~~~~~~~
+~~~~
+    + CategoryInfo  
+            : NotS  
+  pecified: (Warn   
+ ing: In ind...r    
+ more details.:    
+String) [], Rem    
+oteException
+    + FullyQualifie 
+   dErrorId : Nati  
+  veCommandError
+ 
+Warning: In 
+index.html:95: "Flut
+terLoader.loadEntryp
+oint" is 
+deprecated. Use "Flu
+tterLoader.load" 
+instead. See https:/
+/docs.flutter.dev/pl
+atform-integration/w
+eb/initialization 
+for more details.
+Error: unable to 
+find directory 
+entry in 
+pubspec.yaml: C:\Use
+rs\mrmoh\Desktop\pho
+tos\frontend\assets\
+icons\
+Expected to find fonts for (MaterialIcons, packages/cupertino_icons/CupertinoIcons), but found (MaterialIcons). This usually means you are referring to font families in an IconData class but not including them in the assets section of your pubspec.yaml, are missing the package that would include them, or are missing "uses-material-design: true".
+Font asset "MaterialIcons-Regular.otf" was tree-shaken, reducing it from 1645184 to 8892 bytes (99.5% reduction). Tree-shaking can be disabled by providing the --no-tree-shake-icons flag when building your app.
+Compiling lib\main.dart for the Web...                             79.6s
+ÔêÜ Built build\web

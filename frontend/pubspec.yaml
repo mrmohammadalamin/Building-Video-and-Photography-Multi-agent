@@ -1,0 +1,29 @@
+name: gemini_photography_agent
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.11.2+1
+  camera_web: ^0.3.1+3
+  http: ^1.2.0
+  permission_handler: ^11.0.1
+  speech_to_text: ^6.6.0
+  provider: ^6.0.5
+  flutter_tts: ^4.2.3
+  video_player: ^2.10.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/
