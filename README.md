@@ -1,4 +1,4 @@
-# Gemini 3 Photography Agent
+# Gemini 3 Video and Photography Agent
 
 A next-generation Video and photography assistant powered by **Gemini 3** (via Gemini 1.5 Pro API), **Gemini Nano**, **Imagen 3**, and **Veo**.
 
