@@ -107,4 +107,4 @@ If you see "Camera Not Accessible":
 ### Video Demo
 
 Here is a video demo of the application:
-[![Video and Photography AI  agent Demo](https://img.youtube.com/vi/MibL8O5Ff_4/0.jpg)](https://youtu.be/FjI1UR5Y5_k)
+[![Video and Photography AI  agent](https://img.youtube.com/vi/FjI1UR5Y5_k/0.jpg)](https://youtu.be/FjI1UR5Y5_k)
