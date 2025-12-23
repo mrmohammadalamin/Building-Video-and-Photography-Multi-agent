@@ -103,3 +103,8 @@ If you see "Camera Not Accessible":
 2.  Ensure no other app (Zoom, Teams) is using the camera.
 3.  Click **"Use Mock Mode"** in the app to test AI features without a camera.
 - `frontend/lib/main.dart`: Flutter app entry point.
+
+### Video Demo
+
+Here is a video demo of the application:
+[![Video and Photography AI  agent Demo](https://img.youtube.com/vi/MibL8O5Ff_4/0.jpg)](https://youtu.be/FjI1UR5Y5_k)
